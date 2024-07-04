@@ -27,7 +27,7 @@ What excites me is the nascent landscape of Data Science which means that there 
 ---
 
 ### Data Scientist | [Stock Trend Prediciton with NLP](https://github.com/jiroamato/Stock-Trend-Prediction-With-NLP) :chart_with_upwards_trend:
-_JUL 2023_
+_JUL 2024_
 - Explored different Natural Language Processing techinques in order to process text data.
 - Conducted grid search to optimize for the best sentiment analysis model.
 - Conducted experiments on base time series models which include AR, MA, ARIMA, and SARIMAX models.
