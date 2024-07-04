@@ -1,7 +1,7 @@
 ## Welcome to Jiro's World (like 'Hero' with a J)
 
 
-### About Me
+### :curly_haired_man::skin-tone-4: About Me
 ---
 
 I am a Data Scientist based in Vancouver currently enrolled in a Data Science diploma program at BrainStation. My journey towards this career shift began during my time as an Investment Analyst in Web3, where I discovered my passion for data as I honed my skills in data analytics and critical thinking to evaluate startups, make investment decisions, and assess market trends.
@@ -23,7 +23,7 @@ What excites me is the nascent landscape of Data Science which means that there 
 
 ![Image2](https://user-images.githubusercontent.com/74038190/250967443-f5384ba2-bf78-4be4-94be-4559c1827245.gif)
 
-## 🔮 Projects
+## :bookmark_tabs: Projects
 ---
 
 ### Data Scientist | [Stock Trend Prediciton with NLP](https://github.com/jiroamato/Stock-Trend-Prediction-With-NLP) :chart_with_upwards_trend:
