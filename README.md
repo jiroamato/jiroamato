@@ -1,4 +1,4 @@
-## Welcome to Jiro's world (like 'hero' with a J)
+## Welcome to Jiro's World (like 'Hero' with a J)
 
 
 ### About Me
@@ -33,12 +33,13 @@ What excites me is the nascent landscape of Data Science which means that there 
   <img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original-wordmark.svg" title="Kaggle" alt="Kaggle" width="40" height="40"/>&nbsp;
 </div>
 
-- **Programming Languages:** `Python`, `R`, `SQL`
-- **Data Analysis Libraries:** `NumPy`, `Pandas`, `SciPy`
-- **Visualization Tools:** `Tableau`, `Matplotlib`, `Plotly`, `Seaborn`
+- **Programming Languages:** ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;, ![R](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)&nbsp;, ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=MySQL)&nbsp;
+- **Data Analysis Libraries:** ![NumPy](https://img.shields.io/badge/-Numpy-05122A?style=flat&logo=Numpy)&nbsp;, ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=Pandas)&nbsp;, ![Scipy](https://img.shields.io/badge/-Scipy-05122A?style=flat&logo=Scipy)&nbsp;
+- **Visualization Tools:** ![Tableau](https://img.shields.io/badge/-Tableau-05122A?style=flat&logo=Tableau)&nbsp;, ![Matplotlib](https://img.shields.io/badge/-Matplotlib-05122A?style=flat&logo=Matplotlib)&nbsp;, ![Plotly](https://img.shields.io/badge/-Plotly-05122A?style=flat&logo=Plotly)&nbsp;, ![Seaborn](https://img.shields.io/badge/-Seaborn-05122A?style=flat&logo=Seaborn)&nbsp;
 - **Statistical Analysis:** `Hypothesis Testing`, `A/B tests`, `Parametric and non-Parametric tests`
-- **Machine Learning Frameworks:** `TensorFlow`, `Scikit-learn`, `XGBoost`, `PyTorch`
-- **Big Data Technologies:** `AWS`, `Hadoop`, `Spark`, `Hive`, `Docker`
+- **Machine Learning Frameworks:** ![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=TensorFlow)&nbsp;, ![scikit-learn](https://img.shields.io/badge/-scikit--learn-05122A?style=flat&logo=scikit-learn)&nbsp;, ![XGBoost](https://img.shields.io/badge/-XGBoost-05122A?style=flat&logo=XGBoost)&nbsp;, ![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?style=flat&logo=PyTorch)&nbsp;, ![Keras](https://img.shields.io/badge/-Keras-05122A?style=flat&logo=Keras)&nbsp;
+- **Big Data Technologies:** ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=Amazon-AWS)&nbsp;, ![Hadoop](https://img.shields.io/badge/-Hadoop-05122A?style=flat&logo=Apache-Hadoop)&nbsp;, ![Spark](https://img.shields.io/badge/-Spark-05122A?style=flat&logo=Apache-Spark)&nbsp;, ![Hive](https://img.shields.io/badge/-Hive-05122A?style=flat&logo=Apache-Hive)&nbsp;, ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker)&nbsp;
+- **Version Control:** ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=MySQL)&nbsp;, ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
 ![Image2](https://user-images.githubusercontent.com/74038190/250967443-f5384ba2-bf78-4be4-94be-4559c1827245.gif)
 
