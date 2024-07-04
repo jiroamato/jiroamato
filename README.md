@@ -1,7 +1,7 @@
 ## Welcome to Jiro's World (like 'Hero' with a J)
 
 
-### :curly_haired_man::skin-tone-4: About Me
+### :curly_haired_man: About Me
 ---
 
 I am a Data Scientist based in Vancouver currently enrolled in a Data Science diploma program at BrainStation. My journey towards this career shift began during my time as an Investment Analyst in Web3, where I discovered my passion for data as I honed my skills in data analytics and critical thinking to evaluate startups, make investment decisions, and assess market trends.
