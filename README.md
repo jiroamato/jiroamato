@@ -1,4 +1,4 @@
-## Hi my name is Jiro (like 'hero' with a J)
+## Welcome to Jiro's world (like 'hero' with a J)
 
 
 ### About Me
