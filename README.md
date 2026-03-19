@@ -4,7 +4,7 @@
 ### :curly_haired_man: About Me
 ---
 
-I am a Data Scientist based in Vancouver currently enrolled in a Data Science diploma program at BrainStation. My journey towards this career shift began during my time as an Investment Analyst in Web3, where I discovered my passion for data as I honed my skills in data analytics and critical thinking to evaluate startups, make investment decisions, and assess market trends.
+I am a Data Scientist based in Vancouver currently enrolled in the Master of Data Science (MDS) program at the University of British Columbia. My journey towards this career shift began during my time as an Investment Analyst in Web3, where I discovered my passion for data as I honed my skills in data analytics and critical thinking to evaluate startups, make investment decisions, and assess market trends.
 
 During my role as an Investment Analyst, my interest in Machine Learning was also ignited through seeing many firms leverage ML models in research and in practice through Algorithmic Trading. Combined with a background in finance and tech sales, I believe I can bridge the gap between technical analysis and business insight.
 
